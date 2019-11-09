@@ -15,4 +15,5 @@ public class PyramidNum {
 	         
 	}
    }
+     System.out.println("its working");
 }
